@@ -3,19 +3,19 @@ import React from 'react';
 const Navbar = () => {
     return <nav className="nav">
         <div>
-            <a> Profile </a>
+            <a> My Profile </a>
         </div>
         <div>
-            <a> Messages </a>
+            <a> My Messages </a>
         </div>
         <div>
             <a> My News </a>
         </div>
         <div>
-            <a> Music </a>
+            <a> My Music </a>
         </div>
         <div>
-            <a> Settings </a>
+            <a> My Settings </a>
         </div>
     </nav>
 }
